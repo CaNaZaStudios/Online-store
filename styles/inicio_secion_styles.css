@@ -1,0 +1,79 @@
+*{
+    margin: auto;
+    padding: auto;
+    font-family: sans-serif;
+}
+
+body{
+    background-color: rgb(53, 60, 119);
+}
+
+.contenedor {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.formulario{
+    background-color: #232051;
+    text-align: center;
+    border: 5px solid #6f4cbb;
+    border-radius: 50px;
+    width: 450px;
+    height: 520px;
+}
+
+.titulo{
+    color: #a09fff;
+    font-size: 45px;
+    margin: 20px 0px;
+}
+
+label{
+    color: #bdc8ff;
+    font-size: 25px;
+    margin: 10px 0px;
+}
+
+.rellenar{
+    font-size: 20px;
+    border: 3px solid #879bff;
+    border-radius: 10px;
+    margin: 10px 0px;
+}
+
+.subir{
+    background-color: #a69cff;
+    color: #ffffff;
+    font-size: 25px;
+    border: 2px solid #a69cff;
+    border-radius: 10px;
+    margin: 30px 0px;
+}
+
+a{
+    color: #ffffff;
+}
+
+.preguntar{
+    color: #C5DFF8;
+    font-size: 25px;
+}
+
+.olvidoContraseña{
+    font-size: 20px;
+}
+
+.username{
+    margin: 50px 0px 0px 0px;
+}
+
+.contraseña{
+    margin: 30px 0px 0px 0px;
+}
+
+.recordar{
+    margin: 20px 0px 0px 0px;
+}
+
